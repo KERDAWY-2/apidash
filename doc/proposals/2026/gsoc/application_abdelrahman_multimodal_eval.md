@@ -2,7 +2,7 @@
 
 1. Full Name: Abdelrahman Alkerdawy
 2. Contact info: abdelrahman@kerdawy.dev
-3. Discord handle in our server (mandatory): kerdawy
+3. Discord handle in our server (mandatory): kerdawy_1
 4. Home page (if any): N/A
 5. Blog (if any): N/A
 6. GitHub profile links: https://github.com/KERDAWY-2 (active) | https://github.com/Kerdawy-1 (older projects)
